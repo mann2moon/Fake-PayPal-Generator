@@ -21,5 +21,5 @@ Replit: https://replit.com/@FelosiDev/paypal?v=1
 
 </br>
 
-> ⭐ Feel free to leave a ❤️ if this helped you! | Fake PayPal Generator © 2023 by Felosi.
+> ⭐ Feel free to leave a ❤️ if this helped you! | Fake PayPal Generator © 2023 by Unknown.
 
